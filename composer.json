@@ -1,0 +1,13 @@
+{
+    "name": "test/rscript",
+    "authors": [],
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "classmap": ["src/"],
+        "exclude-from-classmap": ["src/media"]
+    },
+    "scripts": {
+        "sc": "bin/s.php"
+    }
+}
